@@ -13,3 +13,13 @@ A beginner project for learning Git and GitHub.
 - CSS
 - Git
 - GitHub
+
+
+
+## Git Practice
+
+This project demonstrates:
+- Repository initialization
+- Staging and committing files
+- Connecting a local repository to GitHub
+- Pushing code to a remote repository
